@@ -1,0 +1,2 @@
+Prefix plugins/BootAll/example/
+Plugin BootAll inputfile none outputfile output.rds
